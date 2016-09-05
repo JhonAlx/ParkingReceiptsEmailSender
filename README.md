@@ -6,5 +6,5 @@ Repo holding threaded scraper basic template
 	* Selenium.WebDriver
 	* Selenium.Support
 * Optional 
-	* EPPlus (Optional)
+	* EPPlus
 
