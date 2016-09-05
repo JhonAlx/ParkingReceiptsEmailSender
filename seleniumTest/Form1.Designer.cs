@@ -1,4 +1,4 @@
-﻿namespace seleniumTest
+﻿namespace ScraperBase
 {
     partial class Form1
     {

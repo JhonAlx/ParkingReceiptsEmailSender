@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Windows.Forms;
 
-namespace seleniumTest
+namespace ScraperBase
 {
     public partial class Form1 : Form
     {

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace seleniumTest.Properties
+namespace ScraperBase.Properties
 {
 
 
