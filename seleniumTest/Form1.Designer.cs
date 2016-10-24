@@ -59,7 +59,7 @@
             // openFileDialog1
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
-            this.openFileDialog1.Filter = "Text files|*.txt";
+            this.openFileDialog1.Filter = "Text files|*.xls;*.xlsx;*.xlsm;";
             // 
             // FileTxtBox
             // 
@@ -74,9 +74,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(12, 15);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(68, 13);
+            this.label3.Size = new System.Drawing.Size(47, 13);
             this.label3.TabIndex = 6;
-            this.label3.Text = "Output folder";
+            this.label3.Text = "Input file";
             // 
             // button1
             // 

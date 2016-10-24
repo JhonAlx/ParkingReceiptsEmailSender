@@ -27,7 +27,7 @@ namespace ScraperBase
             MainProcess mp = new MainProcess();
             mp.MyForm = this;
             mp.MyRichTextBox = this.statusRTB;
-            mp.FolderName = this.FileTxtBox.Text;
+            mp.FileName = this.FileTxtBox.Text;
 
             mp.Run();
         }
@@ -46,7 +46,7 @@ namespace ScraperBase
 
         private void button2_Click(object sender, EventArgs e)
         {
-            DialogResult result = folderBrowserDialog1.ShowDialog();
+            DialogResult result = openFileDialog1.ShowDialog();
 
             if (result == DialogResult.OK)
             {
